@@ -1,3 +1,6 @@
+EspoCRM is a web-based Customer Relation Management (CRM) application. 
+
+source code can be found under src folder
 
 ===================================================================================
 TO RUN EXECUTABLE JAR FILE: EspoCRM.jar
